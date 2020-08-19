@@ -1,13 +1,12 @@
 #Corona is Spreading Rapidly across the world
-##Looking for a way to get stats about the current situation?
 
-**With help of these Widgets you can easily get updated stats right onto your Android homescreen.**
+## Looking for a way to get stats about the current situation?
+
+![Image of Global Widget](https://github.com/yogeshgosavi/Covid-Widgets-KWGT/raw/master/Images/GlobalCovidStats.jpg)
+![Image of Country specific Widget](https://github.com/yogeshgosavi/Covid-Widgets-KWGT/raw/master/Images/CountryStats.jpg)
+![Image of USa Sates specific Widget](https://github.com/yogeshgosavi/Covid-Widgets-KWGT/raw/master/Images/usastates.jpg)
 
 **How to Use ?**
-
-
-
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 
 https://twitter.com/Yogesh_gosavi_/status/1240903825684189184
