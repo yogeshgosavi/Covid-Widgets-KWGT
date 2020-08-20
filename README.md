@@ -1,7 +1,7 @@
 ## Corona is Spreading Rapidly across the world
 ## Looking for a way to get stats about the current situation?
  
-** This widgets will help you get Covid stats right onto your Android Homescreen**
+**This widgets will help you get Covid stats right onto your Android Homescreen**
 
 ![Image of Global Widgets ](https://github.com/yogeshgosavi/Covid-Widgets-KWGT/raw/master/Images/covid19.png)
 
